@@ -1,0 +1,10 @@
+{
+  "name": "wallet-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib-x.git",
+    "request": "^2.83.0"
+  },
+  "license": "MIT"
+}
