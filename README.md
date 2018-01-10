@@ -13,6 +13,8 @@ This demos the following:
 
 ## Example
 
+Run `npm install` first.
+
 The `create_wallet.js` file creates a new DucatusCoin address and save the WIF to a file.
 
 Send coins to the address that it generates, then edit the values in the `create_transactions.js` file. When ran it will generate a transaction and broadcast it.
