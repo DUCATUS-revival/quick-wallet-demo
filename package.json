@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib-x.git",
+    "ducatuscore-lib": "git+ssh://git@github.com/DUCATUS-revival/ducatuscore-lib-x.git",
     "request": "^2.83.0"
   },
   "license": "MIT"
