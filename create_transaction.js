@@ -22,7 +22,7 @@ request(INSIGHT_URL + "addr/" + address.toString(), {}, function(err, res, body)
 
 	var walletInfo = JSON.parse(body);
 	console.log("Wallet Info:\n" + JSON.stringify(walletInfo, null, 4));
-	console.log(`Wallet Balance:  ${walletInfo.balance} DTC`);
+	console.log(`Wallet Balance:  ${walletInfo.balance} DUC`);
 
 	if (walletInfo.balance === 0) {
 		console.log("Not enough funds");
